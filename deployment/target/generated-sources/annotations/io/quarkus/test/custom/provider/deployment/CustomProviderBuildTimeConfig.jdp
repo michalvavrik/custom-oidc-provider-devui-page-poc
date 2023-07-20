@@ -1,0 +1,6 @@
+#
+#Thu Jul 20 11:03:34 CEST 2023
+io.quarkus.test.custom.provider.deployment.CustomProviderBuildTimeConfig.google=Show custom Google provider page.
+io.quarkus.test.custom.provider.deployment.CustomProviderBuildTimeConfig.nonOidcWebComponent=This web component has io.quarkus.oidc namespace, but it is placed in here.
+io.quarkus.test.custom.provider.deployment.CustomProviderBuildTimeConfig.keycloak=Show custom Keycloak provider page.
+io.quarkus.test.custom.provider.deployment.CustomProviderBuildTimeConfig.keycloakTitle=Show custom title for Keycloak provider page.

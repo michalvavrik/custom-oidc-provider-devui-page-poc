@@ -1,0 +1,19 @@
+---
+name: "Custom Provider"
+metadata:
+  built-with-quarkus-core: "999-SNAPSHOT"
+  minimum-java-version: "11"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-core"
+  - "io.quarkus:quarkus-oidc"
+  - "io.quarkus:quarkus-vertx"
+  - "io.quarkus:quarkus-netty"
+  - "io.quarkus:quarkus-mutiny"
+  - "io.quarkus:quarkus-smallrye-context-propagation"
+  - "io.quarkus:quarkus-vertx-http"
+  - "io.quarkus:quarkus-security"
+  - "io.quarkus:quarkus-jsonp"
+  - "io.quarkus:quarkus-oidc-common"
+  - "io.quarkus:quarkus-smallrye-jwt-build"
+artifact: "io.quarkus.test:custom-provider::jar:1.0.0-SNAPSHOT"

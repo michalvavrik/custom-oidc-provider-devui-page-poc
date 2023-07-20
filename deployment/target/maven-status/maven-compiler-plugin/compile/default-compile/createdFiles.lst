@@ -1,0 +1,10 @@
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor$UseCustomKeycloakTitleProvider.class
+io/quarkus/test/custom/provider/deployment/CustomProviderBuildTimeConfig.class
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor$UseNonOidcWebComponent.class
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor.class
+META-INF/quarkus-javadoc.properties
+META-INF/quarkus-config-roots.list
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor$UseCustomKeycloakProvider.class
+META-INF/quarkus-build-steps.list
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor$UseGoogleProvider.class
+io/quarkus/test/custom/provider/deployment/CustomProviderProcessor$$accessor.class
